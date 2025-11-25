@@ -80,7 +80,9 @@ Output Graph
 
 
 Tablular Column
+![IMG_20251125_103204](https://github.com/user-attachments/assets/5fd3e937-8ea4-46ec-99ed-cc9765925fc7)
 
+![IMG_20251125_103246](https://github.com/user-attachments/assets/e7fed3af-fb7f-4a8d-969d-1f324f0cfe6d)
 
 Result
 
